@@ -1,0 +1,9 @@
+{
+    "user": "tu",
+    "plant_type": "cassava",
+    "disease": "cassava_bacterial_blight",
+    "confidence": 94.02,
+    "summary": "### \ud83d\udccc Disease:\n\ud83d\udccc  Cassava Bacterial Blight\n\n### \ud83d\udca5 Cause:\n- \ud83d\udca5  It's caused by the bacterium Xanthomonas axonopodis pv. manihotis. Transmitted by infected seed and through wound infections.\n\n\n### \ud83d\ude37 Symptoms:\n- \ud83d\ude37  Wilted leaves, water-soaked lesions on stems, brownish stripes on tubers.\n\n\n### \ud83d\udc8a Treatment & Prevention:\n- \ud83d\udc8a  Use disease-free seed, crop rotation, avoid overcrowding, apply copper-based bactericide and promote soil drainage to prevent water-logging.",
+    "location": "unknown",
+    "timestamp": "2025-07-12 14:34:18"
+}

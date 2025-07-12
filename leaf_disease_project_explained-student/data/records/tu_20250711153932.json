@@ -1,0 +1,9 @@
+{
+    "user": "tu",
+    "plant_type": "lemon",
+    "disease": "lemon citrus canker",
+    "confidence": 42.56,
+    "summary": "### \ud83d\udccc Disease:\n\ud83d\udccc  Lemon Citrus Canker\n\n### \ud83d\udca5 Cause:\n- \ud83d\udca5  The bacterium Xanthomonas citri causes lemon citrus canker. It's primarily spread through rain, wind, and insects.\n\n\n### \ud83d\ude37 Symptoms:\n- \ud83d\ude37  Characterized by raised, irregular, dark brown or yellow lesions on the lemon peel, often resembling motor oil splashes. Lesions may also form internal pockets that ooze a dark-brown, gum-like substance.\n\n\n### \ud83d\udc8a Treatment & Prevention:\n- \ud83d\udc8a  Quick diagnosis and treatment can help prevent further spread. Treat affected trees with antibiotic sprays. Sanitize tools after pruning. Prevent spread by only buying disease-free plants and planting them in well-drained soil. Regularly check for signs of disease and quarantine infected trees.",
+    "location": "unknown",
+    "timestamp": "2025-07-11 15:39:32"
+}

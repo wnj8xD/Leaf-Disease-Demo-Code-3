@@ -1,0 +1,9 @@
+{
+    "user": "tu",
+    "plant_type": "wheat",
+    "disease": "wheat_stripe_rust",
+    "confidence": 54.41,
+    "summary": "### \ud83d\udccc Disease:\n\ud83d\udccc  Wheat Stripe Rust\n\n### \ud83d\udca5 Cause:\n- \ud83d\udca5  Wheat Stripe Rust is caused by the fungus Puccinia striiformis f. sp. tritici. It spreads primarily through spores carried by wind.\n\n\n### \ud83d\ude37 Symptoms:\n- \ud83d\ude37  Yellowish stripes on the upper surface of leaves, with yellow pustules on the underside. Stripes may progress to tan and eventually cause wheat to wither and turn premature brown.\n\n\n### \ud83d\udc8a Treatment & Prevention:\n- \ud83d\udc8a  Fungicides can help manage infection. Use resistant varieties of wheat, crop rotation, and proper spacing to reduce disease spread. Keep fields free of debris to minimize overwintering of the pathogen. Regularly monitor plants and treat at first signs of the disease.",
+    "location": "unknown",
+    "timestamp": "2025-07-12 14:39:42"
+}

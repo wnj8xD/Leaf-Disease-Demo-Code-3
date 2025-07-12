@@ -1,0 +1,9 @@
+{
+    "user": "tu",
+    "plant_type": "grape",
+    "disease": "grape_black_rot",
+    "confidence": 97.57,
+    "summary": "### \ud83d\udccc Disease:\n\ud83d\udccc  Grape Black Rot\n\n### \ud83d\udca5 Cause:\n- \ud83d\udca5  Caused by the fungus Guignardia bidwelliae and Phomopsis viticola, it spreads through infected canes, pruning tools, water, and wind.\n\n\n### \ud83d\ude37 Symptoms:\n- \ud83d\ude37  Black, leathery lesions on leaves, small black berries, and shriveled clusters, rotting canes.\n\n\n### \ud83d\udc8a Treatment & Prevention:\n- \ud83d\udc8a  Prune and destroy infected wood, use fungicides, practice crop rotation, and avoid overhead watering to prevent the spread of the disease.",
+    "location": "unknown",
+    "timestamp": "2025-07-12 15:00:19"
+}

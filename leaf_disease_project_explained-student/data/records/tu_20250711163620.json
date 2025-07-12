@@ -1,0 +1,9 @@
+{
+    "user": "tu",
+    "plant_type": "durian",
+    "disease": "durian leaf blight",
+    "confidence": 63.98,
+    "summary": "### \ud83d\udccc Disease:\n\ud83d\udccc  Durian Leaf Blight\n\n### \ud83d\udca5 Cause:\n- \ud83d\udca5  It's caused by the fungus Phytophthora palmivora. The disease is often spread through infected plant debris, water, and tools.\n\n\n### \ud83d\ude37 Symptoms:\n- \ud83d\ude37  Initial symptoms include yellowish or reddish leaves that turn brown and curled. Lesions on the leaf may appear water-soaked and later turn grayish-brown.\n\n\n### \ud83d\udc8a Treatment & Prevention:\n- \ud83d\udc8a  Fungicides can help manage the disease, but prevention is key. Remove and destroy infected leaves, avoid overwatering, practice crop rotation, and use disease-free planting materials. Regularly sanitize tools to prevent the spread.",
+    "location": "unknown",
+    "timestamp": "2025-07-11 16:36:20"
+}

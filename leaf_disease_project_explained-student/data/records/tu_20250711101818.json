@@ -1,0 +1,9 @@
+{
+    "user": "tu",
+    "plant_type": "durian",
+    "disease": "durian leaf blight",
+    "confidence": 63.98,
+    "summary": "### \ud83d\udccc Disease:\n\ud83d\udccc  Durian Leaf Blight\n\n### \ud83d\udca5 Cause:\n- \ud83d\udca5  Caused by several fungi such as Alternaria alternata and Colletotrichum gloeosporioides. Spreads through infected plant debris or contaminated tools.\n\n\n### \ud83d\ude37 Symptoms:\n- \ud83d\ude37  Brown blotches on leaf surfaces, expanding and turning necrotic with yellow halos, and eventually causing leaf drop.\n\n\n### \ud83d\udc8a Treatment & Prevention:\n- \ud83d\udc8a  Apply fungicides, maintain good sanitation (clean tools and remove infected plant debris), and ensure proper air circulation around trees. Regularly spray trees with copper or bordeaux mixture to prevent infection.",
+    "location": "unknown",
+    "timestamp": "2025-07-11 10:18:18"
+}

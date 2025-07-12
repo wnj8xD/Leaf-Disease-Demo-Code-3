@@ -1,0 +1,9 @@
+{
+    "user": "tu",
+    "plant_type": "durian",
+    "disease": "durian allocaridara attack",
+    "confidence": 45.1,
+    "summary": "### \ud83d\udccc Disease:\n\ud83d\udccc  Durian Allocaridara Attack (Bacterial Rot)\n\n### \ud83d\udca5 Cause:\n- \ud83d\udca5  This disease is caused by the bacterium Pseudomonas spp. and is often spread through wounds or damaged parts of the durian fruit.\n\n\n### \ud83d\ude37 Symptoms:\n- \ud83d\ude37  Blackish-brown decay on the fruit's surface, water-soaked internal tissue, and soft, mushy rotting.\n\n\n### \ud83d\udc8a Treatment & Prevention:\n- \ud83d\udc8a  Practice good sanitation, avoid wounding the fruit during cultivation, and use disease-resistant varieties. Copper-based fungicides can be used for prevention but should be handled with care due to potential hazards. Regularlyremove infected fruits to prevent further spread.",
+    "location": "unknown",
+    "timestamp": "2025-07-08 16:45:11"
+}

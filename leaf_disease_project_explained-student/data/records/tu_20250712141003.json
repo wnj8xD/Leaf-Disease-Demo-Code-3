@@ -1,0 +1,9 @@
+{
+    "user": "tu",
+    "plant_type": "cherry",
+    "disease": "cherry_powdery_mildew",
+    "confidence": 77.72,
+    "summary": "### \ud83d\udccc Disease:\n\ud83d\udccc  Cherry Powdery Mildew\n\n### \ud83d\udca5 Cause:\n- \ud83d\udca5  It's a fungus called Podosphaera oxyacanthae that thrives in humid conditions and poor air circulation.\n\n\n### \ud83d\ude37 Symptoms:\n- \ud83d\ude37  White, powdery spots on the upper and lower leaves, stunted growth, leaf yellowing, and premature leaf drop.\n\n\n### \ud83d\udc8a Treatment & Prevention:\n- \ud83d\udc8a  Use fungicides, maintain good air circulation, prune plants to improve airflow, avoid overwatering, and plant resistant cherry varieties. Regularly monitor and treat at first signs of the disease.",
+    "location": "unknown",
+    "timestamp": "2025-07-12 14:10:03"
+}

@@ -1,0 +1,9 @@
+{
+    "user": "tu",
+    "plant_type": "durian",
+    "disease": "durian allocaridara attack",
+    "confidence": 45.1,
+    "summary": "### \ud83d\udccc Disease:\n\ud83d\udccc  Durian Allocaridara Attack\n\n### \ud83d\udca5 Cause:\n- \ud83d\udca5  This disease is caused by theAllocaridea duriae larva, a small, white, worm-like pest that attacks durian fruits.\n\n\n### \ud83d\ude37 Symptoms:\n- \ud83d\ude37  Symptoms include circular or irregular holes on the fruit's rind, discolored areas, and the larvae visible when the holes are opened.\n\n\n### \ud83d\udc8a Treatment & Prevention:\n- \ud83d\udc8a  Use pesticides containing spinosad or abamectin during the larval stage. Regular monitoring and timely treatments are crucial. Quarantine affected fruits and practice good sanitation to prevent spread. Netting or bags can also protect fruits from infestation in early stages.",
+    "location": "unknown",
+    "timestamp": "2025-07-04 15:46:03"
+}
